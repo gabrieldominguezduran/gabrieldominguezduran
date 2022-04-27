@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Domínguez Durán
-- 👀 I’m interested in Web development, Javascript ecosystem and RoR
-- 🌱 I’m currently increasing my knowledge of these technologies
+- 👀 Experienced in Javascript his ecosystem and RoR
+- 🌱 I’m currently working with Typescript, Node, React and more...
 - 📫 How to reach me: @gabrieldominguezduran
 
 <!---
